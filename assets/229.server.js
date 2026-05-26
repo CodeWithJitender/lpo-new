@@ -1,0 +1,1 @@
+"use strict";exports.id=229,exports.ids=[229],exports.modules={8248(e,t,o){o.r(t),o.d(t,{default:()=>s});var n=o(2015),r=o.n(n),l=o(4822);const s=function(){return r().createElement("div",null,r().createElement("h1",null,"404 - Page Not Found"),r().createElement("p",null,"The page you are looking for does not exist."),r().createElement(l.Link,{to:"/"},"Go to Home"))}}};
