@@ -1,14 +1,14 @@
 {
-  "hash": "ff11c7faa44789c461d0",
+  "hash": "90789398c0652e132d47",
   "publicPath": "/assets/",
   "outputPath": "D:\\Website\\lpo-website\\build\\public",
   "assetsByChunkName": {
     "client": [
       "styles.c9206300.css",
-      "client.773c6580.js",
+      "client.9a8ed857.js",
       "contact-us-bg-ce0104d2.jpg",
-      "quote-icon-27968dea.png",
       "contact-address-section-bg-d89377fc.jpg",
+      "quote-icon-27968dea.png",
       "bullet-7bf33a8e.png",
       "accordian-icon-1-451aed47.png",
       "accordian-icon-2-b64c9adc.png",
@@ -92,8 +92,8 @@
       "chunk.containers-Home.bc775fe3.js",
       "bullet-7bf33a8e.png",
       "legal-support-bg-b7020a87.jpg",
-      "master-head-bg-8cfdd105.jpg",
       "master-head-bg-mobile-7f69169a.jpg",
+      "master-head-bg-8cfdd105.jpg",
       "flexi-chevron-bg-183311f1.png",
       "usp-image-1-417d2d7d.jpg",
       "usp-image-2-3cfe6952.jpg",
@@ -148,11 +148,11 @@
     "containers-About": [
       "611.styles.d1bcdd1d.css",
       "chunk.containers-About.dcf8ebc9.js",
+      "about-materhead-bg-47b4355c.jpg",
       "new-era-section-bg-55ab2c5d.jpg",
       "metrics-section-bg-8ac38d00.jpg",
       "metrics-tile-bg-af8c84d9.png",
       "founder-section-bg-1aa19bb0.jpg",
-      "about-materhead-bg-47b4355c.jpg",
       "about-linkedin-icon-14b9c111.png",
       "cost-advantage-6a48cc3a.png",
       "data-security-1ee2a303.png",
@@ -229,18 +229,18 @@
     },
     {
       "type": "asset",
-      "name": "client.773c6580.js",
-      "size": 913620,
+      "name": "client.9a8ed857.js",
+      "size": 913806,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "773c6580",
+        "contenthash": "9a8ed857",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "client.773c6580.js.LICENSE.txt"
+          "license": "client.9a8ed857.js.LICENSE.txt"
         }
       },
       "chunkNames": [
@@ -4548,7 +4548,7 @@
           "name": "styles.c9206300.css"
         },
         {
-          "name": "client.773c6580.js"
+          "name": "client.9a8ed857.js"
         }
       ],
       "filteredAssets": 0,
@@ -4683,7 +4683,7 @@
       "id": 818,
       "files": [
         "styles.c9206300.css",
-        "client.773c6580.js"
+        "client.9a8ed857.js"
       ]
     },
     {
