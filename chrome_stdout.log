@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="MfZYqA6YszOfmYIq5RiiniJOur7YksOt05bEORUhX_c">
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-17995078646&amp;cx=c&amp;gtm=4e65l0h2"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-XK445J0VV0&amp;cx=c&amp;gtm=4e65l0h2"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=G-XK445J0VV0&amp;cx=c&amp;gtm=4e65l0h2"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P6VW4CWD"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P6VW4CWD');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-17995078646"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-17995078646');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@700&amp;family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&amp;display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css">
+    <title>Glocal LPO</title>
+    
+    <!-- Client CSS -->
+    <link rel="stylesheet" href="assets/styles.c9206300.css">
+    
+    <!-- Route Styles (preloading for better page-load and layout stability) -->
+    <link rel="stylesheet" href="assets/649.styles.c5d5356f.css">
+    <link rel="stylesheet" href="assets/611.styles.d1bcdd1d.css">
+    <link rel="stylesheet" href="assets/749.styles.a70226ae.css">
+    <link rel="stylesheet" href="assets/445.styles.b617c1e1.css">
+  <style data-emotion="css" data-s=""></style><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17995078646/?random=1779443016239&amp;cv=11&amp;fst=1779443016239&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be65k1h1v9245485411za200zb9226150342zd9226150342xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=0~115938465~115938469~118128923&amp;u_w=800&amp;u_h=600&amp;url=file%3A%2F%2F%2FC%3A%2FUsers%2FAdmin%2FDownloads%2Fnew%2Findex.html&amp;rcb=8&amp;frm=0&amp;tiba=Glocal%20LPO&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;uaa=x86&amp;uab=64&amp;uafvl=Chromium%3B148.0.7778.178%7CGoogle%2520Chrome%3B148.0.7778.178%7CNot%252FA)Brand%3B99.0.0.0&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script></head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6VW4CWD"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <div id="root"></div>
+    <div id="menu-root"></div>
+    
+    <!-- Required State for loadable-components to mount client-side -->
+    <script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">[]</script>
+    <script id="__LOADABLE_REQUIRED_CHUNKS___ext" type="application/json">{"namedChunks":[]}</script>
+    
+    <script>
+      window.__DEVICE_INFO__ = { "isMobile": false, "isTablet": false, "isDesktop": true };
+    </script>
+    
+    <!-- Client JS Bundle -->
+    <script src="assets/client.773c6580.js"></script>
+  
+
+</body></html>
